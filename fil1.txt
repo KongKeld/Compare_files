@@ -1,0 +1,3 @@
+('dim','Indkoeb','OracleCloud', 1, 0),
+('dim','Kontoplan','OSS,OracleCloud', 1, 0),
+('dim','KontoplanSnowflake','OSS,OracleCloud', 2, 0),
